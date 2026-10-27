@@ -1,0 +1,14 @@
+.gstack/
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.bin
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
